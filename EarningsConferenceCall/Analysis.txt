@@ -1,6 +1,168 @@
 ----------
 Q1 FY2019:
 ----------
+1) To start with, just to share the numbers, the revenue that we have clocked in Q1 is Rs.594 crores. On a standalone basis, there is a growth of 33% because there is a significant drag in the revenues on the Mobile side, there is a degrowth of 15% as compared to Q1 last year. On the EBITDA side, we have grown by 26% and the EBITDA of this quarter is Rs.27.47 crores. On the margin expansion side, we have expanded the overall margin from 3.1% to 4.6%. On the PAT side, we have grown by 18% from Rs.1,083 lakhs to Rs.1,276 lakhs. These are on the numbers side on a consolidated basis.
+
+2) On the business side, the Lighting as a vertical, is on a very robust note. We have very significant mix of customers in our product portfolio. In this quarter, we have added Syska and Orient to our customer portfolio
+
+3) The latest customer addition on the Washing Machine side, we have Lloyd as our customer now, whom we start executing business in this particular month. On the LED TV production side, we have added a very large customer, details I will be sharing after sometime. We have already expanded our capacity in Tirupati plant of 2.4 million sets. Further expansion plan to 3.4 million sets is on and we should be competing that by Q3 this fiscal. This is a complete backward integration of LCM, also the SMT line installation will be done by September.
+
+4) On the Reverse Logistics side, the legacy issues are over. We had some data issues with Reliance, so we have taken the write-offs in this particular quarter of that. Our anchor customer, the order book now with Airtel is extremely strong. So, I would not say that we are going to be generating an EBITDA of Rs.11, 12 crores but we are going to be back to the run rate of Rs.60, 70 lakhs a month.
+
+5) The commercial production of CCTV business in our JV with Aditya Infotech is already on and the commercial production has started and last month we delivered around 1.4 lakhs digital cameras and the DVR production has also started. There the expansion from 1.5 lakhs to 5 lakhs would be completed by September. The order book is very healthy. On the Mobile side, there has been issue on the demand from the customer. However, our backward integration plan for PCBA is on and should be completed by August end-mid-September. Also, Xiaomi, which was our major customer is back with us and now our partner is the brand S&C for Xiaomi.
+
+6) On the Consumer Electronics side, if you see, there is a significant increase in the revenue; however, the margins have been under pressure. This I shared with you in the last earning call also, this is primarily because that we have been running two units, both in Dehradun and in Tirupati. So, the fixed cost expenses were higher because of this kind of operations which is coming to an end in end August. Also, now in Tirupati, the backward integration of their LCM is already on. So, from this quarter you will see a significant jump in the margins. In September, the surface mount lines are also going to be operational which will further increase the margins. So, both on the order book side and also on the backward integration and depth of manufacturing side, you will see a significant increase in the margins 
+
+7) Atul B. Lall:
+Last year we were around slightly lesser than a million sets. We feel that we should be
+somewhere around 1.4, 1.45 million sets.
+Saurabh Gupta:
+Aditya, to answer your question, that was partly built into our guidance that we had given; 2%
+addition was built into that guidance, so we think we will continue to deliver somewhere
+between 30-40% growth over last year which is around 1 million sets that we delivered last
+year, we should be within 1.35-1.4 million this year.
+Aditya Bhartia:
+What kind of margin expansion should we be expecting coming because of backward
+integration in LED TV sets?
+Saurabh Gupta:
+Of course, it will take some time to ramp up but we think it can easily expand our margin by
+60 to 70 bps but that will happen only when that completely gets stabilized. So, gradually I
+think so in the mid of Q2, it will start to get stabilized.
+Atul B. Lall:
+Finally, it is going to come to around 2.7%, 2.8%.
+
+8) Nitin Gosar:
+Just wanted to understand on the washing machine comment which you made, you talked
+about inability to pass on price hikes immediately.
+Atul B. Lall:
+What we have in our agreements is that in the pricing to our customers we take the average
+exchange rate the previous month and average commodity rate the previous month, that has to
+be built into the current month’s pricing. Now, in case month-on-month, the exchange rate and
+the commodity prices keep on increasing, which normally does not happen but it happened in
+the last quarter that every month on the exchange rate the Indian rupee has been depreciating
+and the Polymer prices have been increasing because of crude with a lag comes into the
+system, that is what I was trying to explain. In this particular month, the Polymer prices have
+come down and exchange rate at least as compared to the last month has been stable, will
+become slightly better but that was not the case in the last quarter.
+
+9) Anshuman Baid:
+Regarding this front load washing machine, which you had a plan and were a part of our R&D,
+any kind of development from that?
+Atul B. Lall:
+What we are planning is top load fully automating machine, the team has been working on it
+and we are hopeful that by Q3 next fiscal we will be ready with the production and the
+moderate churn out from our Tirupati plant
+
+10) Here the question that I was answering was in our ODM business, in which we are
+the owners of design. In that we have a mechanism of passing on to the cost, but it is not the
+exact cost-plus model. There is an element of variability there which I tried explaining in my
+explanation. So, there are two business models: In the cost-plus model, complete cost is passed
+on to the customer, namely our businesses of mobile, namely, our businesses of EMS LED
+TV, our business of security surveillance system, this is an exact cost plus
+
+11) As explained, the Consumer Electronics business is majorly the EMS business where the
+currency and the commodities is completely passed on to the customer immediately. There is
+no erosion on account of realization.
+
+12) In Reverse Logistics business, Bhoomika, we feel that from the current quarter we should be at
+a level of creating profit of around Rs.50-60 lakhs. This is not as per my guidance, which I had
+given of around Rs.10-11 crores but we are going to be add Rs.50, 60 lakhs a month, so we
+should generate around Rs.5, 6 crores operating profit in this business. This is primarily on
+account of Airtel coming back to us in larger volumes
+
+13)
+
+Analysts:
+---------
+1) Renu Baid from IIFL
+2) Aditya Bhartia from Investec
+3) Nitin Gosar from Invesco
+4) Anshuman Baid from ICICI Securities
+5) Prtiesh Chheda from Lucky Investment Managers
+6) Nayan Parakh from IIFL
+
+----------
+Q2 FY2019:
+----------
+1) Now the business model that we have is that we passed on any impact of the currency to the customer as per the contract, which is either monthly or bimonthly or three month basis. Usually there has been a parabolic kind of a change in the commodity prices and the currency, but unfortunately in the last three months it has only been increased, so that has been a drag on the profitability, which is impacted significantly. One it has stabilized lately and second we have come out with an internal mechanism and some contracts are being reinitiated, so I we feel that we have been able to take care of this issue to a very large extent in the coming quarters.
+
+2) we shared that the revenue this year is Rs.360 Crores against 
+Rs.466 Crores last year, again there was a Diwali shifting. The operating profit margin has
+expanded to 3.6% that is Rs.13 Crores against Rs.11 Crores last year so it is expanded from 2.4%
+to 3.6%. The ODM percentage has increased from 5% to 10%, the backward integration of LCM
+and closure of the Dehradun LED TV unit by which we are having duplicate cost structure, has
+been already taken care. One very significant positive in this quarter has been the acquisition of
+account of Xiaomi by us now.
+
+3) We have created a capacity earlier of 2.4 millions at our Tirupati plant, which has been
+expanded to 3.4 million now that is 2.9 lakhs a month and this expansion will be over by
+December this year, so this increased capacity will give us a share of almost 24% of the Indian
+Market, which is the largest capacity any company, any unit has in India. Further we are now
+have deepened our manufacturing facility both with LCM manual insertions and SMP, so the
+depth of manufacturing today is the same if not more in any other multinational company or any
+other company in India or globally
+
+4) The second I wanted to go is the home appliances segment. In home appliances, there has been a
+strong revenue growth of almost 7% to 9%. We did Rs.104 Crores in Q2 FY2018-FY2019
+against Rs.58 Crores in the same period last year. In Q2 we have sold almost 2.1 lakh machine in
+2018-2019 against 1.3 lakhs in the same period last year. However the operating margins have
+contracted almost 360 basis points This again has been very special kind of a situation where it has been
+continuously increasing, so lately I am seeing the stability there and we have worked out on
+internal mechanism and some renegotiations of our contracts to take care of it with our customer.
+
+5) As far as the lighting segment is concerned, the revenues have grown by 1% this year, Rs.190
+Crores against Rs.188 Crores last year and the conventional CFL business has come to a stop.
+Adjusting the revenue of lighting CFL business revenue growth would have been 15%; however,
+the operating margins contracted by 110 basis points from 6.9% to 5.8%
+
+7) However to add to that, we are working on some internal mechanism for sourcing in different
+currency, which is going to dilute this impact, we have worked out on some internal mechanisms
+for hedging and buyers credit. There might be some impact, but what has happened in Q2
+because of the currency depreciation I feel in the subsequent quarter. If at all that impact is there
+it will be much more diluted.
+
+8) Nitin Arora:
+With respect to Xiaomi, which you are saying that they will do some 15000 to 20000 units and
+the order booking would be much higher going forward, whom you think he will start eating
+market share from, is it going to be the guys, four guys who is holding 70% of the market, the
+Samsung, LG, Sony or is it the guy who has a 10% share in the market like a Panasonic, which is
+your client, just want your take on that?
+Atul Lall:
+Nitin he will eat the market share of all the top four players including Panasonic as well, the
+Samsung, LG, Sony and Panasonic would get affected.
+Nitin Arora:
+So how is Panasonic doing as of now for you in the TV and how much you expect he softens out,
+if this, so at the end of the day we even outcry the Xiaomi goes up and Panasonic goes down, so
+can you give a more clarity on that?
+Atul Lall:
+Panasonic with Xiaomi will definitely be under pressure, but as far as our volumes of Panasonic
+are concerned there would be a small impact, but not very significant impact, but Xiaomi head on
+will be much, much larger in any minor impact that would happen on Panasonic because as you
+very correctly mentioned one feels the impact of Xiaomi just like it has happened in mobile
+phone is more on the top brand and second is they are only launching the smart solutions, they
+are not into the conventional solutions and Panasonic 75%-80% is conventional solution
+
+9) We feel that across all these segments the penetration level in India is small. Second the
+government policies and the cost in China really ballooning, all this consumption often times
+would be serviced through India manufacturing. More and more brands are focusing on branding
+and distribution and the manufacturing in the lining part has been outsourced. I feel across all
+these verticals there is significant tailwind and in some of the verticals, which I shared with you
+like lighting there is a huge potential for getting into the global market.
+
+10)
+
+
+Analysts:
+---------
+1) Aditya Bhartia from Investec
+2) Rahul Agarwal from ICICI Prudential Life
+3) Nitin Arora from Axis Mutual Fund.
+4) Abhisehk Ghosh from DSP Mutual Fund.
+5) Jaganadham T from Centrum Booking.
+6) 
+----------
+Q1 FY2020:
+----------
 1) The consolidated revenue for quarter ended June 30, 2019 was 1147 Crores as against 594 Crores in the same period last year. This is a growth of almost 93%. On consolidated EBITDA for the quarter was Rs.53.15 Crores as against 27.25 Crores in the same period last year that is a growth of 95%. Consolidated PAT for the quarter was 23.58 Crores against 12.76 Crores in the same period last year, which is a growth of almost 35%.
 
 2) In the consumer electronics segment, which is dominated by televisions, the revenues for the quarter under review was 510 Crores against 223 Crores, which is a growth of 129% over the last year’s quarter, first quarter. This was mainly due to our new customer acquisition that is Xiaomi. Xiaomi since has got a hold position, it is number one, it is smart television market in India.
@@ -28,7 +190,7 @@ Q1 FY2019:
 13) We are in the front of a Japanese Daikin partner. There is a company called Rexene which is the strategic partner for Daikin globally and it provides them the complete inverter control module solution. We are the manufacturing partner for India. I am seeing that this business is continuously growing. One Daikin is doing fairly well. Second it is a pretty strong AC season. Third there is an absolute shift towards the inverter base solutions so I am seeing a significant growth in the Q2 also. Third Daikin is sourcing for all their global factors of Rexene so some exports have also started from Dixon India to Daikin’s global.
 
 ----------
-Q2 FY2019:
+Q2 FY2020:
 ----------
 1) Consolidated revenues for quarter ended September 30, 2019 was Rs.1405 Crores against Rs.741 Crores in the same period last year. That is a growth of around 90%. Consolidated EBITDA for the quarter ended September 30th was Rs.65.9 Crores against 34.6 Crores in the same period last year that is a growth of 91%.
 

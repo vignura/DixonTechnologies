@@ -1,3 +1,11 @@
 ----------------------
 Dixon Technologies Ltd
 ----------------------
+
+Risks:
+1) Forex volatality (ie Rupee vs Dollar)
+2) Q2 Revenue is dependent of Diwali date, If diwali is at the begning of october, then we would see its effect in Q2, if it moves to end of october or to start of november, then we will see its impact on revenues in Q3
+
+Growth:
+LED Lamps is projected to grow at CAGR 11.8 %
+https://www.grandviewresearch.com/industry-analysis/led-lighting-market
